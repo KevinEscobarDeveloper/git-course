@@ -1,1 +1,1 @@
-estte commit es para oficializar nuestra version 1.0.0
+este commit es para oficializar nuestra version 1.0.0
